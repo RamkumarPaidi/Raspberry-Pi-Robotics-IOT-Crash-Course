@@ -1,5 +1,5 @@
 # Lesson 05: Push-button Input
-
+ 
 ## 1. Learning Objective
 
 In this lesson, you will learn how to read digital input from a push button connected to the Raspberry Pi.
